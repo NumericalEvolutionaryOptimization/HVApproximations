@@ -31,4 +31,4 @@ by Genetic Programming, Applied Soft Computing (2022) 109103, https://doi.org/10
 # Version
 Current version: v0.1
 # License
-GNU GPLv3, see [LICENSE]()
+GNU GPLv3, see [LICENSE](https://github.com/NumericalEvolutionaryOptimization/HVApproximations/blob/main/LICENSE)
