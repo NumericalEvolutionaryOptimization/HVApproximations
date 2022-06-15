@@ -22,7 +22,7 @@ The content of this repository can be divided into three parts
 # Requirements
 - The source codes which can be used to reproduce the experimental results in the paper are provided in the source code folder. The source codes use [PlatEMO](https://github.com/BIMK/PlatEMO/) v2.0 or higher.
 - Databases can be used to train new models. In this work we use [GPTIPS2](https://github.com/domsearson/gptips-2-0) to evolve the models.
-- The models can be used as a guide for the SMSEMOA-GP algorithm. It is necessary to train models for different number of objectives. We are working to overcome this limitation. 
+
 - The models can be used as a guide for the SMSEMOA-GP algorithm. These models were trained with samples of fronts N = 300, for this population size they obtain their best results. It is necessary to train models for different number of objectives. We are working to overcome this limitation.
 - The models can be used in DTLZ and WFG benchmark test suite.
 # References
